@@ -9,3 +9,5 @@ plotly
 scikit-learn
  ProfileReport
  st_profile_report
+pandas_profiling
+streamlit_pandas_profiling
