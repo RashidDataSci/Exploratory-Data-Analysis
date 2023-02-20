@@ -7,3 +7,5 @@ seaborn
 matplotlib 
 plotly 
 scikit-learn
+ ProfileReport
+ st_profile_report
